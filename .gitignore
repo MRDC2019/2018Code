@@ -1,0 +1,14 @@
+# vs files
+Debug/
+Release/
+
+*.suo
+*.user
+
+*.aps
+*.opensdf
+*.sdf
+*.pdf
+*.db
+*.opendb
+*.ipch
